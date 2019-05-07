@@ -1,0 +1,7 @@
+15011541327    954425896@qq.com
+	git config --global  user.name "15011541327"
+	git config --global user.email "954425896@qq.com"
+
+zxfjd3g      258147149@qq.com
+	git config --global  user.name "zxfjd3g"
+	git config --global user.email "258147149@qq.com"
