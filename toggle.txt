@@ -5,3 +5,7 @@
 zxfjd3g      258147149@qq.com
 	git config --global  user.name "zxfjd3g"
 	git config --global user.email "258147149@qq.com"
+
+kitten 		954425896@qq.com
+	git config --global  user.name "kitten"
+	git config --global user.email "954425896@qq.com"
